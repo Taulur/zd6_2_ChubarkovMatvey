@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_chubarkovmatvey\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\obj\\debug\\netstandard2.0\\page2.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\obj\\debug\\netstandard2.0\\page2.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|c:\\chubarkov2\\zd6_2_chubarkovmatvey\\zd6_2_chubarkovmatvey\\firstpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6FFE7287-CE25-407A-8E99-3004C0CA50DA}|zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey.csproj|solutionrelative:zd6_2_chubarkovmatvey\\firstpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Style.css",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Style.css",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Style.css",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-02T05:58:14.459Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page3.xaml",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Page3.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page3.xaml",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Page3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T08:38:46.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\App.xaml.cs",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\App.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\App.xaml.cs",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:03:18.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Page3.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page3.xaml.cs",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Page3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:59:21.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Page2.xaml.g.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\obj\\Debug\\netstandard2.0\\Page2.xaml.g.cs",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\obj\\Debug\\netstandard2.0\\Page2.xaml.g.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\obj\\Debug\\netstandard2.0\\Page2.xaml.g.cs",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\obj\\Debug\\netstandard2.0\\Page2.xaml.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:54:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstPage.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\FirstPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\FirstPage.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\FirstPage.xaml.cs",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\FirstPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:39:27.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirstPage.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\FirstPage.xaml",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\FirstPage.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\FirstPage.xaml",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\FirstPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T07:39:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Page1.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page1.xaml.cs",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Page1.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:29:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page1.xaml",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Page1.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page1.xaml",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Page1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T07:29:11.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Page2.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page2.xaml.cs",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Page2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:29:08.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page2.xaml",
+              "RelativeDocumentMoniker": "zd6_2_ChubarkovMatvey\\Page2.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_2_ChubarkovMatvey\\zd6_2_ChubarkovMatvey\\Page2.xaml",
+              "RelativeToolTip": "zd6_2_ChubarkovMatvey\\Page2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T07:29:07.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
